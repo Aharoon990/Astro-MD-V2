@@ -1,7 +1,7 @@
 {
   "name": "Astro-MD V2",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/vihangayt0/Astro-MD-V2",
+  "repository": "https://github.com/Aharoon990/Astro-MD-V2",
   "logo": "",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "env": {
@@ -9,7 +9,7 @@
 "ALIVE_MSG" :{
     "description" : "alive message",
     "required" : true,
-  "value" : "Alive now"
+  "value" : "Hey I'm Aharoon"
     },
 "SESSION_ID" :{
     "description" : "SESSION_ID http://Secktorbot.herokuapp.com/qr",
@@ -39,22 +39,22 @@
     "SONG_DOWN" :{
     "description" : "Song downloading txt",
     "required" : true,
-  "value" : "*📥 ඔබේ ගීතය Download කරමින් පවතී...*"
+  "value" : "*📥 Downloading Your Song...*"
 },
         "SONG_UP" :{
     "description" : "Song uploading txt",
     "required" : true,
-  "value" : "*📤 ඔබේ ගීතය Upload කරමින් පවතී...*"
+  "value" : "*📤 Uploading Your Song...*"
 },
             "VIDEO_DOWN" :{
     "description" : "video down txt",
     "required" : true,
-  "value" : "*📥 ඔබේ වීඩියෝව Download කරමින් පවතී...*"
+  "value" : "*📥 Downloading your video...*"
 },
                 "VIDEO_UP" :{
     "description" : "video up txt",
     "required" : true,
-  "value" : "*📤 ඔබේ වීඩියෝව Upload කරමින් පවතී...*"
+  "value" : "*📤 Uploading Your Video...*"
 },
                         "FILE_DOWN" :{
     "description" : "video up txt",
@@ -69,7 +69,7 @@
                         "CAPTION" :{
     "description" : "yre caption",
     "required" : true,
-  "value" : "*𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙴𝙳 𝙱𝚈 𝙰𝚂𝚃𝚁𝙾-𝙼𝙳*"
+  "value" : "*𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙴𝙳 𝙱𝚈 Aharoon*"
 },
                         "BUTTON" :{
     "description" : "alive button txt",
@@ -78,7 +78,7 @@
 },
                             "BUTTONURL" :{
     "description" : "alive button url",
-    "required" : true,
+    "required" : false,
   "value" : "youtube.com/hjwn7skv"
 }, 
                            "onlygroup" :{
